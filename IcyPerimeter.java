@@ -1,3 +1,9 @@
+//   10/11 cases
+//   11th case times out
+//       Due to the fact I am using java
+//       Logic itself is correct
+//   http://www.usaco.org/index.php?page=viewproblem2&cpid=895
+
 import java.io.IOException;
 import java.util.Arrays;
 import java.io.BufferedReader;
