@@ -1,3 +1,7 @@
+//   15/15 test cases
+//   http://usaco.org/index.php?page=viewproblem2&cpid=1062
+
+
 import java.util.ArrayList;
 
 public class Cowtagion {
