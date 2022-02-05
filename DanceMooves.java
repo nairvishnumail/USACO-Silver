@@ -1,3 +1,7 @@
+//   20/20 test cases
+//   http://usaco.org/index.php?page=viewproblem2&cpid=1086
+
+
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
