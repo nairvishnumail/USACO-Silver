@@ -1,3 +1,7 @@
+//   10/10 test cases
+//   http://www.usaco.org/index.php?page=viewproblem2&cpid=835
+
+
 import java.io.IOException;
 import java.util.Arrays;
 
